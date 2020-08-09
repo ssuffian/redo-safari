@@ -23,8 +23,11 @@
                                                 controls
                                                 indicators>
                                         <!-- Text slides with image -->
-                                        <b-carousel-slide img-src="img/theme/img-1-1200x1000.jpg"></b-carousel-slide>
-                                        <b-carousel-slide img-src="img/theme/img-2-1200x1000.jpg"></b-carousel-slide>
+                                        <b-carousel-slide img-src="img/slider/buffalo.jpg"></b-carousel-slide>
+                                        <b-carousel-slide img-src="img/slider/elephant.jpg"></b-carousel-slide>
+                                        <b-carousel-slide img-src="img/slider/elephants.jpg"></b-carousel-slide>
+                                        <b-carousel-slide img-src="img/slider/lion.jpg"></b-carousel-slide>
+                                        <b-carousel-slide img-src="img/slider/zebras.jpg"></b-carousel-slide>
                                     </b-carousel>
                                 </h1>
                                 <p class="lead  text-white">The design system comes with four pre-built pages to help
